@@ -1,0 +1,53 @@
+IFATIGUE-INFRA6-M6
+Copyright 2026 Sergio Castellanos Bustamante
+
+La versión 1.1.0 es una reconstrucción doctoral nueva. No contiene ni afirma
+continuidad material con el paquete histórico no disponible
+IFATIGUE-INFRA6-M6 v1.0.0. Tampoco contiene GEA ni materiales derivados
+directamente de GEA.
+
+Las cuatro representaciones estructuradas de `spec/published/` derivan de
+manera directa y acotada de las siguientes obras:
+
+1. A Computational Model of Emotion Assessment Influenced by Cognition in
+   Autonomous Agents (2018), Sergio Castellanos, Luis-Felipe Rodríguez,
+   Luis A. Castro y J. Octavio Gutierrez-Garcia.
+   DOI: 10.1016/j.bica.2018.07.007.
+
+2. A Flexible Scheme to Model the Cognitive Influence on Emotions in
+   Autonomous Agents (2018), Sergio Castellanos y Luis-Felipe Rodríguez.
+   DOI: 10.4018/IJCINI.2018100105.
+
+Las siguientes obras documentan linaje, contexto o metadatos, pero no son
+fuentes directas de esos cuatro archivos de `spec/published/`:
+
+1. Cognitive Modulation of Appraisal Variables in the Emotion Process of
+   Autonomous Agents (2017), Sergio Castellanos, Luis-Felipe Rodríguez,
+   Luis A. Castro y J. Pérez. DOI: 10.1109/ICCI-CC.2017.8109737.
+
+2. A Mechanism for Biasing the Appraisal Process in Affective Agents (2019),
+   Sergio Castellanos, Luis-Felipe Rodríguez y J. Octavio
+   Gutierrez-Garcia. DOI: 10.1016/j.cogsys.2019.08.008.
+
+3. Configurable Appraisal Dimensions for Computational Models of Emotions of
+   Affective Agents (2020). DOI: 10.1007/978-3-030-25719-4_7. La copia
+   disponible solo permitió confirmar metadatos parciales; la lista completa
+   de autores no se presenta como verificada.
+
+4. Systematic Guidelines for Extending the Appraisal Process in Computational
+   Models of Emotion (2026), Sergio Castellanos, E. Osuna Cuen,
+   E. L. Padilla y Luis-Felipe Rodríguez.
+   DOI: 10.1016/j.cogsys.2026.101442.
+
+La relación completa, el uso exacto y los límites de cada fuente figuran en
+sources/SOURCES.json y sources/DERIVATION_LEDGER.csv. Los artículos y demás
+documentos fuente no se redistribuyen ni se relicencian mediante este paquete.
+
+Luis Felipe Rodríguez Torres se reconoce además como director de la tesis. Las
+personas coautoras de las fuentes anteriores no se presentan como autoras,
+titulares o mantenedoras de esta reconstrucción. La autoría de esta versión
+1.1.0 corresponde únicamente a Sergio Castellanos Bustamante.
+
+El autor informó un antecedente registral ante INDAUTOR de una obra de software
+previa. No se presenta como registro de esta versión 1.1.0, ni la documentación
+registral —que contiene datos personales— se redistribuye en este depósito.

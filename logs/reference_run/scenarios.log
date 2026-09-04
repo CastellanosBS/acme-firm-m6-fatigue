@@ -1,0 +1,16 @@
+S00	PASS	applied_no_change	-	traces/reference_run/S00.trace.json
+S01	PASS	modulated	-	traces/reference_run/S01.trace.json
+S02	PASS	modulated	-	traces/reference_run/S02.trace.json
+S03	PASS	modulated	-	traces/reference_run/S03.trace.json
+S04	PASS	modulated	-	traces/reference_run/S04.trace.json
+S05	PASS	applied_no_change	-	traces/reference_run/S05.trace.json
+S06	PASS	applied_no_change	-	traces/reference_run/S06.trace.json
+S07	PASS	abstained	FACTOR_STATE_MISSING	traces/reference_run/S07.trace.json
+S08	PASS	abstained	FACTOR_STATE_STALE	traces/reference_run/S08.trace.json
+S09	PASS	abstained	FACTOR_LEVEL_OUT_OF_RANGE	traces/reference_run/S09.trace.json
+S10	PASS	abstained	FACTOR_LEVEL_OUT_OF_RANGE	traces/reference_run/S10.trace.json
+S11	PASS	abstained	FACTOR_CONFIDENCE_BELOW_MIN	traces/reference_run/S11.trace.json
+S12	PASS	abstained	FACTOR_STATE_FROM_FUTURE	traces/reference_run/S12.trace.json
+S13	PASS	abstained	FACTOR_STATE_STALE	traces/reference_run/S13.trace.json
+S14	PASS	modulated	-	traces/reference_run/S14.trace.json
+S15	PASS	rejected	HOST_BASELINE_OUT_OF_RANGE	traces/reference_run/rejections/S15.rejection.json

@@ -1,0 +1,14 @@
+[project]
+name = "ifatigue-infra6"
+version = "1.1.0"
+description = "Instancia doctoral reproducible para conformidad sintética de la integración IFATIGUE-INFRA6"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+license = "Apache-2.0"
+authors = [
+  { name = "Sergio Castellanos Bustamante", email = "scb.castellanos@gmail.com" },
+]
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/CastellanosBS/acme-firm-m6-fatigue"

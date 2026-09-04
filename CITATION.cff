@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: >-
+  Si utiliza este software, cite esta versión. El software se ofrece bajo
+  Apache-2.0; la documentación y el material sintético se ofrecen bajo
+  CC-BY-4.0 conforme a LICENSE_SCOPE.md.
+title: "IFATIGUE-INFRA6-M6: instancia doctoral de conformidad ACME-FIRM"
+type: software
+authors:
+  - family-names: "Castellanos Bustamante"
+    given-names: "Sergio"
+    email: "scb.castellanos@gmail.com"
+version: "1.1.0"
+doi: "10.5281/zenodo.22313152"
+date-released: "2026-09-04"
+repository-code: "https://github.com/CastellanosBS/acme-firm-m6-fatigue"
+repository-artifact: "https://doi.org/10.5281/zenodo.22313152"
+license: Apache-2.0
+abstract: >-
+  Reconstrucción doctoral reproducible que materializa una instancia acotada
+  de ACME-FIRM para integrar un estado sintético externo de fatiga cognitiva
+  y modificar exclusivamente coping_potential. La evidencia acredita
+  conformidad contractual sintética, no validez psicológica, clínica, causal
+  ni empírica.
+keywords:
+  - ACME-FIRM
+  - affective computing
+  - appraisal
+  - cognitive fatigue
+  - reproducibility
+  - synthetic conformity

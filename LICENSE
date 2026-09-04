@@ -1,0 +1,17 @@
+# Licencias de esta distribución
+
+Copyright 2026 Sergio Castellanos Bustamante.
+
+Esta distribución aplica licencias distintas según la naturaleza de cada
+archivo; no ofrece Apache-2.0 y CC-BY-4.0 como licencias alternativas para un
+mismo contenido.
+
+- El software y los componentes de ejecución se ofrecen bajo Apache License
+  2.0. Texto íntegro: `LICENSES/Apache-2.0.txt`.
+- La documentación, las especificaciones, los artefactos y el material
+  sintético se ofrecen bajo Creative Commons Attribution 4.0 International.
+  Texto íntegro: `LICENSES/CC-BY-4.0.txt`.
+
+`LICENSE_SCOPE.md` determina el alcance por ruta, las reglas de prevalencia y
+las exclusiones. Ninguna licencia de este repositorio se extiende a una obra
+fuente que solo se cita, describe o identifica mediante metadatos.
